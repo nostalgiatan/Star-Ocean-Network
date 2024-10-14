@@ -6,9 +6,7 @@
 
 欢迎各位贡献者共同参与节点网络与插件的开发
 
-### Certainly, here's a more polished and natural English expression of your message:
-
 ## "Please excuse any shortcomings, as the developers are relatively new and may have some gaps in their knowledge. Your understanding is greatly appreciated."
 
-## 由于开发者还是新人，可能有一定的缺漏，还请见谅。
+### 由于开发者还是新人，可能有一定的缺漏，还请见谅。
 
